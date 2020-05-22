@@ -1,2 +1,2 @@
 # litzine.github.io
-webzine
+static webzine accessed at https://litzine.github.io
